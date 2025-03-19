@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, conhecido por sua energia e entusiasmo. Os arianos são corajosos, independentes e cheios de iniciativa.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo prático e determinado. Os taurinos são conhecidos por sua paciência, confiabilidade e amor pelo conforto e luxo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é o signo da comunicação e da versatilidade. Os geminianos são curiosos, adaptáveis e adoram trocar ideias e informações.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo emocional e sensível. Os cancerianos são protetores, intuitivos e têm um forte vínculo com a família e o lar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o signo da criatividade e da liderança. Os leoninos são carismáticos, generosos e adoram ser o centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo analítico e prático. Os virginianos são organizados, detalhistas e sempre buscam a perfeição em tudo o que fazem.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o signo do equilíbrio e da harmonia. Os librianos são diplomáticos, sociáveis e valorizam a justiça e a beleza.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo intenso e misterioso. Os escorpianos são passionais, determinados e têm uma grande capacidade de transformação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o signo da aventura e da liberdade. Os sagitarianos são otimistas, aventureiros e adoram explorar novos horizontes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo ambicioso e disciplinado. Os capricornianos são responsáveis, perseverantes e valorizam o sucesso e a estabilidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o signo da inovação e da liberdade. Os aquarianos são visionários, independentes e sempre buscam fazer a diferença no mundo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o signo da sensibilidade e da intuição. Os piscianos são compassivos, artísticos e têm uma forte conexão com o mundo espiritual.</descricao>
+    </signo>
+</signos>

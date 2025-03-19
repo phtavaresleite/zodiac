@@ -1,0 +1,21 @@
+body {
+    background-color: #15142b;
+    background-image: linear-gradient(180deg, #372991, #15142b);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+*{
+    color: white;
+}
+
+.signo{
+    font-size: 10vw;
+    width: auto;
+}
+
+.descricao{
+    font-size: 2vw !important;
+}
